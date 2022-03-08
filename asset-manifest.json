@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eezyness.github.io/csb-ikebs8/static/css/main.ff1a510c.chunk.css",
+    "main.js": "https://eezyness.github.io/csb-ikebs8/static/js/main.95de26df.chunk.js",
+    "main.js.map": "https://eezyness.github.io/csb-ikebs8/static/js/main.95de26df.chunk.js.map",
+    "runtime-main.js": "https://eezyness.github.io/csb-ikebs8/static/js/runtime-main.e845b8cf.js",
+    "runtime-main.js.map": "https://eezyness.github.io/csb-ikebs8/static/js/runtime-main.e845b8cf.js.map",
+    "static/js/2.d05667bf.chunk.js": "https://eezyness.github.io/csb-ikebs8/static/js/2.d05667bf.chunk.js",
+    "static/js/2.d05667bf.chunk.js.map": "https://eezyness.github.io/csb-ikebs8/static/js/2.d05667bf.chunk.js.map",
+    "index.html": "https://eezyness.github.io/csb-ikebs8/index.html",
+    "static/css/main.ff1a510c.chunk.css.map": "https://eezyness.github.io/csb-ikebs8/static/css/main.ff1a510c.chunk.css.map",
+    "static/js/2.d05667bf.chunk.js.LICENSE.txt": "https://eezyness.github.io/csb-ikebs8/static/js/2.d05667bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e845b8cf.js",
+    "static/js/2.d05667bf.chunk.js",
+    "static/css/main.ff1a510c.chunk.css",
+    "static/js/main.95de26df.chunk.js"
+  ]
+}
